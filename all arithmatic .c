@@ -15,5 +15,8 @@ void main(){
 	printf("\n modular is=%d",g);
 	
 	// MUnish
-	
+	// git status -- modified
+	// git add . --- add file 
+	// git commit -m "learn about "
+	// git push ----- upload to github.com
 }
